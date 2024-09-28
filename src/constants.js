@@ -22,8 +22,8 @@ export const experiences = [
         'points': [
             'Involved in dynamic contributions to web development projects, actively influencing and improving project outcomes.',
             'Successfully built and enhanced various web pages and interfaces, focusing on user engagement and performance optimization.',
-            'Enhanced product performance through significant contributions to backend development, optimizing essential components for improved efficiency 📈.',
-            'Implemented data security for the company’s product to provide role-based access control ⚙️.'
+            'Enhanced product performance through significant contributions to frontend and backend development, optimizing essential components for improved efficiency 📈.',
+            'Implemented data security for the  product to provide role-based access control ⚙️.'
         ],
         'url': '',
     },
