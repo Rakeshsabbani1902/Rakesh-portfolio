@@ -61,16 +61,23 @@ const Projects = () => {
 export const project = [
     {
         title:'NetflixGPT',
-        description:'NetflixGPT is a dynamic web application I crafted using React. This project is a modern and engaging OTT streaming platform that allows users to watch, share movies.It is integration of streaming platform along with chat GPT search suggestion model.',
+        description:'NetflixGPT is a dynamic web application  crafted using React. This project is a modern and engaging OTT streaming platform that allows users to watch, share movies.It is integration of streaming platform along with GPT powered search suggestion model.',
         image: {vpn},
         git:'https://github.com/Rakeshsabbani1902/netflix-gpt',
         technologies:['MongoDb' ,'ReactJS' , 'Redux']
     },
     {
         title:'Namaste-Youtube',
-        description:'Namaste-youtube is youtube prototype  that  exclusively designed using React JS and tailwind CSS.This Project serves as similar to youtube app, highlighting features like Live chat , Search suggestion .',
+        description:'Namaste-youtube is youtube prototype  that  exclusively designed using React JS and tailwind CSS.This Project serves as similar to youtube app, highlighting features like Live chat , Search suggestion.',
         image: {copeople},
         git:"https://github.com/Rakeshsabbani1902/Namaste-Youtube",
+        technologies:[ 'React JS', 'tailwind CSS', 'Redux']
+    },
+    {
+        title:'Namaste-Food',
+        description:'Developed a high-performance and responsive food ordering app, leveraging Swiggy’s live API to deliver real-time data to users',
+        image: {copeople},
+        git:"https://github.com/Rakeshsabbani1902/Namaste-Food",
         technologies:[ 'React JS', 'tailwind CSS', 'Redux']
     }
 ]
